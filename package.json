@@ -7,7 +7,7 @@
     "url": "https://github.com/wilmoore/array.filter.js/issues"
   },
   "dependencies": {
-    "curry2": "^0.1.0",
+    "curry2": "^1.0.0",
     "selectn": "^0.10.0"
   },
   "devDependencies": {
