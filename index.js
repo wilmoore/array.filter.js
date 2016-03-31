@@ -23,7 +23,7 @@ module.exports = curry2(filter)
  * Curried function deriving a new array containing items from given array for which predicate returns true.
  * Supports unary function, RegExp, dot/bracket-notation string path, and compound query object as predicate.
  *
- * @param {Function|String|Object} predicate
+ * @param {Function|RegExp|String|Object} predicate
  * Unary function, RegExp, dot/bracket-notation string path, and compound query object.
  *
  * @param {Array} list

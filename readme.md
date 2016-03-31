@@ -82,7 +82,7 @@ filter({ type: 'sent', 'meta.read': false }, messages).length
 
 ###### arguments
 
- - `predicate (Function|String|Object)` Unary function, RegExp, dot/bracket-notation string path, or compound query object.
+ - `predicate (Function|RegExp|String|Object)` Unary function, RegExp, dot/bracket-notation string path, or compound query object.
  - `list (array)` Array to evaluate.
 
 ###### returns
