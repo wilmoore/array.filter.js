@@ -1,7 +1,7 @@
 {
   "name": "array.filter",
   "description": "Curried function deriving a new array containing items from given array for which predicate returns true. Supports unary function, RegExp, dot/bracket-notation string path, and compound query object as predicate.",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "author": "Wil Moore III <wil.moore@wilmoore.com>",
   "bugs": {
     "url": "https://github.com/wilmoore/array.filter.js/issues"
